@@ -152,17 +152,22 @@
 <br>
        
 ## 5.<a name="5">모델 성능 평가</a>
-### ○ 
-<img width=750 height=300px src="https://user-images.githubusercontent.com/79880476/203922843-00fd86f2-8c1f-4ec4-8a37-743ace5bf95d.jpg">
-### ○ 
-<img width=750 height=300px src="https://user-images.githubusercontent.com/79880476/203922843-00fd86f2-8c1f-4ec4-8a37-743ace5bf95d.jpg">
+### ○ KoGPT2에 Fine-tuning한 결과
+<img width=900 height=200px src="https://user-images.githubusercontent.com/79880476/203924393-caa15d74-43e3-4f67-a699-96654888a627.jpg">
+
+- 국내 가요는 사랑에 대한 주제 多 때문에 편향 문제 발생되었다고 판단함.<br>
+- 한국어만 입력한 가사에 영어 제목이 추천되는 문제 식별되었다.<br>
+ &nbsp; &nbsp;→ 추가적인 데이터 추가와 데이터 전처리를 해줘야된다고 판단함.
 <br>
 
 ## 6.<a name="6">결과</a>
+### ○ 데이터 350,000곡 가사추가 & 데이터 전처리 과정을 통해 데이터 정제한 데이터로 Fine-tuning한 결과
+<img width=900 height=200px src="https://user-images.githubusercontent.com/79880476/203924402-11ca73b3-7115-4de2-b6ed-a3cfacfee0b7.jpg">
 
-### ○ 
-
-### ○ 
+- 가사 내용과 예측 제목의 연관성 상승을 통해 자연스러운 예측 제목 빈도가 올라갔다.<br>
+- 영어를 제거하는 전처리로 한국어로만 이루어진 추천 제목 나온다.<br>
+- 생성된 제목에 ‘사랑’이라는 단어가 들어가는 편향 문제 일부 개선하였다.<br>
+<br>
 
 ## 7.<a name="7">자체 평가 의견</a>
 ### ○
