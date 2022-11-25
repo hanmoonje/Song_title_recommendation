@@ -216,6 +216,7 @@
 <br>
 
 ## 9.<a name="9">멤버 & 역할</a>
+<img width=300 height=300px src="https://user-images.githubusercontent.com/79880476/203930539-4c441ba5-d2f6-493b-b781-235b68efd7f2.jpg">
 
 - 김용재(조장) : 데이터 크롤링(블로그), 데이터 전처리, 모델핸들링(Transformer)
 - 국승용 : 데이터 크롤링(블로그), 모델핸들링(KoBART), PPT
