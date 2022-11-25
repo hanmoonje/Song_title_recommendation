@@ -83,7 +83,7 @@
       <td colspan=2><img width=750 height=300px src="https://user-images.githubusercontent.com/79880476/203907000-d116a0aa-f83f-4366-a515-1d65801cd194.jpg"></td>
     </tr>
     <tr align=center>
-      <td width="50%"> 가사가 등록되어 있는 음악 페이지</td>
+      <td width="50%"> 가사가 등록되어 있는 음악 페이지(멜론,벅스)</td>
       <td width="50%"> 크롤링 해온 가사 데이터의 데이터프레임 </td>           
     </tr>
 </table>
