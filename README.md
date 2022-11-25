@@ -153,10 +153,10 @@
        
 ## 5.<a name="5">모델 성능 평가</a>
 ### ○ 
-
+<img width=750 height=300px src="https://user-images.githubusercontent.com/79880476/203922843-00fd86f2-8c1f-4ec4-8a37-743ace5bf95d.jpg">
 ### ○ 
-
-### ○ 
+<img width=750 height=300px src="https://user-images.githubusercontent.com/79880476/203922843-00fd86f2-8c1f-4ec4-8a37-743ace5bf95d.jpg">
+<br>
 
 ## 6.<a name="6">결과</a>
 
