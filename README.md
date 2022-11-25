@@ -138,7 +138,7 @@
 <br>
 
 ## 4.<a name="4">모델 선정</a>
-#### ○ LSTM, Transformer를 직접 학습하여 모델핸들링 , Pretrained된 모델 KoBERT, KoBART, KoGPT2를 파인튜닝 한 결과 <br> → KoGPT2가 제일 성능이 좋았다.
+#### ○ LSTM, Transformer를 직접 학습하여 모델핸들링 , Pretrained된 모델 KoBERT, KoBART, KoGPT2를 파인튜닝 한 결과 <br> → ∴KoGPT2가 제일 성능이 좋았다.
 <table>
    <tr>
       <td><img width=750 height=300px src="https://user-images.githubusercontent.com/79880476/203922843-00fd86f2-8c1f-4ec4-8a37-743ace5bf95d.jpg"></td>
@@ -146,11 +146,11 @@
     </tr>
     <tr align=center>
       <td width="50%">KoGPT2의 모델 구조도</td>
-      <td width="50%">학습 & 파인튜닝한 데이터의 구조</td>           
+      <td width="50%">학습시킨 데이터 & 파인튜닝한 데이터의 구조</td>           
     </tr>
 </table>
 <br>
-    
+       
 ## 5.<a name="5">모델 성능 평가</a>
 ### ○ 
 
