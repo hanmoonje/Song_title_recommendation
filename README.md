@@ -203,13 +203,26 @@
     <tbody>
         <tr>
             <td>데이터 크롤링 파일</td>
-            <td><a href = "https://github.com/dydwo322/Song_title_recommendation/blob/main/Song_Title_Recommendation_Crawling.ipynb"></a>Song_Title_Recommendation_Crawling.ipynb</td>
+            <td><a href = "https://github.com/dydwo322/Song_title_recommendation/blob/main/Song_Title_Recommendation_Crawling.ipynb">Song_Title_Recommendation_Crawling.ipynb</a></td>
             <td>벅스,멜론 등 가사를 크롤링하는 코드입니다.</td>
         </tr>
         <tr>
-            <td></td>
-            <td><a href = ""></a></td>
-            <td></td>
+            <td>데이터 전처리 파일</td>
+            <td><a href = "https://github.com/dydwo322/Song_title_recommendation/blob/main/Song_Title_Recommendation_Preprocessing.ipynb">Song_Title_Recommendation_Preprocessing.ipynb</a></td>
+            <td>크롤링 해온 데이터를 전처리하는 코드입니다.</td>
+        </tr>
+        <tr>
+            <td rowspan ="3">사용 모델 파일</td>
+            <td><a href = "https://github.com/dydwo322/Song_title_recommendation/blob/main/Song_Title_Recommendation_Transformer.ipynb">Song_Title_Recommendation_Transformer.ipynb</a></td>
+            <td>사용 모델 Transformer의 코드입니다.</td>
+        </tr>
+        <tr>
+            <td><a href = "https://github.com/dydwo322/Song_title_recommendation/blob/main/Song_Title_Recommendation_Fine_tuning_KoBART.ipynb">Song_Title_Recommendation_Fine_tuning_KoBART.ipynb</a></td>
+            <td>Fine-tuning에 사용한 모델 KoBART의 코드입니다.</td>
+        </tr>
+        <tr>
+            <td><a href = "https://github.com/dydwo322/Song_title_recommendation/blob/main/Song_Title_Recommendation_Fine_tuning_KoGPT2.ipynb">Song_Title_Recommendation_Fine_tuning_KoGPT2.ipynb</a></td>
+            <td>Fine-tuning에 사용한 모델 KoGPT2의 코드입니다.</td>
         </tr>
     </tbody>
 </table>
