@@ -202,9 +202,9 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td><a href = ""></a></td>
-            <td></td>
+            <td>데이터 크롤링 파일</td>
+            <td><a href = "https://github.com/dydwo322/Song_title_recommendation/blob/main/Song_Title_Recommendation_Crawling.ipynb"></a>Song_Title_Recommendation_Crawling.ipynb</td>
+            <td>벅스,멜론 등 가사를 크롤링하는 코드입니다.</td>
         </tr>
         <tr>
             <td></td>
